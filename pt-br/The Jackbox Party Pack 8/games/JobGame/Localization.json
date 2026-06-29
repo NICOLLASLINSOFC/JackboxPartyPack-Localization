@@ -1,22 +1,22 @@
 {
   "table": {
     "en": {
-      "LANGUAGE_NAME": "Português",
-      "LANGUAGE": "Idioma",
+      "LANGUAGE_NAME": "English",
+      "LANGUAGE": "Language",
 
       "INTERNET_CONNECTED": "Acabamos de encontrar a Internet.",
       "INTERNET_DISCONNECTED": "Desculpe, não conseguimos nos conectar aos servidores da Jackbox Games.<br/>Verifique se sua conexão com a internet está funcionando corretamente.",
       "ROOM_DESTROYED": "Desculpe, ocorreu um erro de rede e sua sala foi destruída.<br/>Verifique se sua conexão com a internet está funcionando corretamente.",
 
-      "ROOM_EXIT_CAUSE_LOBBY_TIMEOUT": "Desculpe, ocorreu um erro de rede e sua sala foi destruída.<br/>Verifique se sua conexão está funcionando corretamente. (Causa: 1)",
-      "ROOM_EXIT_CAUSE_JOIN_TIMEOUT": "Desculpe, ocorreu um erro de rede e sua sala foi destruída.<br/>Verifique se sua conexão está funcionando corretamente. (Causa: 2)",
-      "ROOM_EXIT_CAUSE_GAME_TIMEOUT": "Desculpe, ocorreu um erro de rede e sua sala foi destruída.<br/>Verifique se sua conexão está funcionando corretamente. (Causa: 3)",
-      "ROOM_EXIT_CAUSE_DISCONNECT": "Desculpe, ocorreu um erro de rede e sua sala foi destruída.<br/>Verifique se sua conexão está funcionando corretamente. (Causa: 4)",
-      "ROOM_EXIT_CAUSE_BY_REQUEST": "Desculpe, ocorreu um erro de rede e sua sala foi destruída.<br/>Verifique se sua conexão está funcionando corretamente. (Causa: 5)",
-      "ROOM_EXIT_CAUSE_SHUTTING_DOWN": "Desculpe, ocorreu um erro de rede e sua sala foi destruída.<br/>Verifique se sua conexão está funcionando corretamente. (Causa: 6)",
+      "ROOM_EXIT_CAUSE_LOBBY_TIMEOUT": "Desculpe, ocorreu um erro de rede e sua sala foi destruída.<br/>Verifique se sua conexão com a internet está funcionando corretamente. (Cause: 1)",
+      "ROOM_EXIT_CAUSE_JOIN_TIMEOUT": "Desculpe, ocorreu um erro de rede e sua sala foi destruída.<br/>Verifique se sua conexão com a internet está funcionando corretamente. (Cause: 2)",
+      "ROOM_EXIT_CAUSE_GAME_TIMEOUT": "Desculpe, ocorreu um erro de rede e sua sala foi destruída.<br/>Verifique se sua conexão com a internet está funcionando corretamente. (Cause: 3)",
+      "ROOM_EXIT_CAUSE_DISCONNECT": "Desculpe, ocorreu um erro de rede e sua sala foi destruída.<br/>Verifique se sua conexão com a internet está funcionando corretamente. (Cause: 4)",
+      "ROOM_EXIT_CAUSE_BY_REQUEST": "Desculpe, ocorreu um erro de rede e sua sala foi destruída.<br/>Verifique se sua conexão com a internet está funcionando corretamente. (Cause: 5)",
+      "ROOM_EXIT_CAUSE_SHUTTING_DOWN": "Desculpe, ocorreu um erro de rede e sua sala foi destruída.<br/>Verifique se sua conexão com a internet está funcionando corretamente. (Cause: 6)",
 
       "SOCKET_DISCONNECTED ": "Desculpe, perdemos sua conexão com os servidores da Jackbox Games.",
-      "TIMEOUT": "Desculpe, não conseguimos nos conectar aos servidores.<br/>Verifique se sua conexão com a internet está funcionando corretamente.",
+      "TIMEOUT": "Desculpe, não conseguimos nos conectar aos servidores da Jackbox Games.<br/>Verifique se sua conexão com a internet está funcionando corretamente.",
       "USER_DISCONNECT": "Desculpe, o servidor desconectou você. Por favor, tente novamente.",
       "LOST_LICENSE": "Desculpe, perdemos a licença para este conteúdo!",
       "STEAM_ERROR": "Desculpe, não conseguimos validar sua licença Steam.",
@@ -89,7 +89,7 @@
       "WRITING_INSTRUCTION_TEXT": "Digite sua resposta. Por favor, use %d+ palavras.",
       "WRITING_PLACEHOLDER_TEXT": "escreva aqui",
       "WRITING_DONE_TEXT": "Obrigado por quebrar o gelo!",
-      "WRITING_ERROR_TEXT": "respostas devem ter %s palavras",
+      "WRITING_ERROR_TEXT": "as respostas devem ter %s palavras",
 
       "CREATING_DONE_TEXT": "Obrigado! Sua inscrição foi recebida.",
       "CREATING_PLACEHOLDER_TEXT": "RESPONDA AQUI",
@@ -120,7 +120,7 @@
       "AVATAR_ALT_POOP": "um cocô",
       "AVATAR_ALT_BOMB": "uma bomba",
       "AVATAR_ALT_SKULL": "uma caveira",
-      "AVATAR_ALT_FAKER": "uma silhueta de detetive",
+      "AVATAR_ALT_FAKER": "um detetive",
       "AVATAR_ALT_JACK": "logo da jack box",
       "AVATAR_ALT_ROBOT": "um robô",
       "AVATAR_ALT_WAMPUS": "um gato",
