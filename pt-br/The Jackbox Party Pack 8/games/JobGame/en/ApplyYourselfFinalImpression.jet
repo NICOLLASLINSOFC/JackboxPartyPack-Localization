@@ -1,101 +1,101 @@
 {
  "content": [
   {
-   "firstPrompt": "I HAVE {{BLANK}}",
+   "firstPrompt": "EU TENHO {{BLANK}}",
    "id": "85487",
    "isValid": "",
-   "secondPrompt": "I NEED {{BLANK}}",
+   "secondPrompt": "EU PRECISO DE {{BLANK}}",
    "x": false
   },
   {
-   "firstPrompt": "I AM {{BLANK}}",
+   "firstPrompt": "EU SOU {{BLANK}}",
    "id": "85488",
    "isValid": "",
-   "secondPrompt": "I WANT {{BLANK}}",
+   "secondPrompt": "EU QUERO {{BLANK}}",
    "x": false
   },
   {
-   "firstPrompt": "I WILL {{BLANK}}",
+   "firstPrompt": "EU VOU {{BLANK}}",
    "id": "85489",
    "isValid": "",
-   "secondPrompt": "I WON'T {{BLANK}}",
+   "secondPrompt": "EU NÃO VOU {{BLANK}}",
    "x": false
   },
   {
-   "firstPrompt": "I GIVE {{BLANK}}",
+   "firstPrompt": "EU DOU {{BLANK}}",
    "id": "85490",
    "isValid": "",
-   "secondPrompt": "I TAKE {{BLANK}}",
+   "secondPrompt": "EU PEGO {{BLANK}}",
    "x": false
   },
   {
-   "firstPrompt": "I CAN {{BLANK}}",
+   "firstPrompt": "EU POSSO {{BLANK}}",
    "id": "85491",
    "isValid": "",
-   "secondPrompt": "I CANNOT {{BLANK}}",
+   "secondPrompt": "EU NÃO POSSO {{BLANK}}",
    "x": false
   },
   {
-   "firstPrompt": "I HOPE {{BLANK}}",
+   "firstPrompt": "EU ESPERO {{BLANK}}",
    "id": "85492",
    "isValid": "",
-   "secondPrompt": "I KNOW {{BLANK}}",
+   "secondPrompt": "EU SEI {{BLANK}}",
    "x": false
   },
   {
-   "firstPrompt": "I SAY {{BLANK}}",
+   "firstPrompt": "EU DIGO {{BLANK}}",
    "id": "85493",
    "isValid": "",
-   "secondPrompt": "I DO {{BLANK}}",
+   "secondPrompt": "EU FAÇO {{BLANK}}",
    "x": false
   },
   {
-   "firstPrompt": "I CREATE {{BLANK}}",
+   "firstPrompt": "EU CRIO {{BLANK}}",
    "id": "85494",
    "isValid": "",
-   "secondPrompt": "I DESTROY {{BLANK}}",
+   "secondPrompt": "EU DESTRUO {{BLANK}}",
    "x": false
   },
   {
-   "firstPrompt": "I SEEK {{BLANK}}",
+   "firstPrompt": "EU BUSCO {{BLANK}}",
    "id": "85495",
    "isValid": "",
-   "secondPrompt": "I FIND {{BLANK}}",
+   "secondPrompt": "EU ENCONTRO {{BLANK}}",
    "x": false
   },
   {
-   "firstPrompt": "I DESERVE {{BLANK}}",
+   "firstPrompt": "EU MEREÇO {{BLANK}}",
    "id": "85496",
    "isValid": "",
-   "secondPrompt": "I GET {{BLANK}}",
+   "secondPrompt": "EU CONSIGO {{BLANK}}",
    "x": false
   },
   {
-   "firstPrompt": "I DREAM {{BLANK}}",
+   "firstPrompt": "EU SONHO COM {{BLANK}}",
    "id": "85497",
    "isValid": "",
-   "secondPrompt": "I FEAR {{BLANK}}",
+   "secondPrompt": "EU TEMO {{BLANK}}",
    "x": false
   },
   {
-   "firstPrompt": "I PROMISE {{BLANK}}",
+   "firstPrompt": "EU PROMETO {{BLANK}}",
    "id": "85498",
    "isValid": "",
-   "secondPrompt": "I DELIVER {{BLANK}}",
+   "secondPrompt": "EU ENTREGO {{BLANK}}",
    "x": false
   },
   {
-   "firstPrompt": "I BELIEVE {{BLANK}}",
+   "firstPrompt": "EU ACREDITO EM {{BLANK}}",
    "id": "85499",
    "isValid": "",
-   "secondPrompt": "I REJECT {{BLANK}}",
+   "secondPrompt": "EU REJEITO {{BLANK}}",
    "x": false
   },
   {
-   "firstPrompt": "I LOVE {{BLANK}}",
+   "firstPrompt": "EU AMO {{BLANK}}",
    "id": "85500",
    "isValid": "",
-   "secondPrompt": "I HATE {{BLANK}}",
+   "secondPrompt": "EU ODEIO {{BLANK}}",
    "x": false
   }
  ]
